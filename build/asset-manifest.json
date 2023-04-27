@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Arthur_Olivier.git/static/css/main.d4403bfe.css",
+    "main.js": "/Portfolio_Arthur_Olivier.git/static/js/main.1c6ca7a8.js",
+    "static/js/964.c49b8331.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/964.c49b8331.chunk.js",
+    "static/js/117.8e3becc7.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/117.8e3becc7.chunk.js",
+    "static/js/478.15866c70.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/478.15866c70.chunk.js",
+    "static/js/922.fefd4601.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/922.fefd4601.chunk.js",
+    "static/js/161.7e6f16a1.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/161.7e6f16a1.chunk.js",
+    "static/js/589.10b3cddd.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/589.10b3cddd.chunk.js",
+    "static/js/209.d464d894.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/209.d464d894.chunk.js",
+    "static/js/312.a89dcbe9.chunk.js": "/Portfolio_Arthur_Olivier.git/static/js/312.a89dcbe9.chunk.js",
+    "index.html": "/Portfolio_Arthur_Olivier.git/index.html",
+    "main.d4403bfe.css.map": "/Portfolio_Arthur_Olivier.git/static/css/main.d4403bfe.css.map",
+    "main.1c6ca7a8.js.map": "/Portfolio_Arthur_Olivier.git/static/js/main.1c6ca7a8.js.map",
+    "964.c49b8331.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/964.c49b8331.chunk.js.map",
+    "117.8e3becc7.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/117.8e3becc7.chunk.js.map",
+    "478.15866c70.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/478.15866c70.chunk.js.map",
+    "922.fefd4601.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/922.fefd4601.chunk.js.map",
+    "161.7e6f16a1.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/161.7e6f16a1.chunk.js.map",
+    "589.10b3cddd.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/589.10b3cddd.chunk.js.map",
+    "209.d464d894.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/209.d464d894.chunk.js.map",
+    "312.a89dcbe9.chunk.js.map": "/Portfolio_Arthur_Olivier.git/static/js/312.a89dcbe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4403bfe.css",
+    "static/js/main.1c6ca7a8.js"
+  ]
+}
